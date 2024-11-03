@@ -10,19 +10,19 @@ global.socialm = "GitHub: manulofficial7" //ur github or insta name
 global.location = "Indonesia, jakarta, sudirman" //ur location
 
 //new
-global.botname = 'Manu MD V5' //ur bot name
-global.ownernumber = '94742274855' //ur owner number
+global.botname = 'NARUTO MD V5' //ur bot name
+global.ownernumber = '23502331988' //ur owner number
 global.ownername = 'Manul Official' //ur owner name
 global.websitex = "https://github.com/manulofficial7"
 global.wagc = "https://chat.whatsapp.com/EIjQV4nxXwJ6S6QHSa9jpN"
 global.themeemoji = '🪀'
 global.wm = "Manu bot Inc."
 global.botscript = 'https://whatsapp.com/channel/0029VaN1XMn2ZjCsu9eZQP3R' //script link
-global.packname = "Sticker By Cepio md"
-global.author = "Manu md\n\n+94742274855"
-global.creator = "94742274855@s.whatsapp.net"
+global.packname = "✮✮✮ʟᴏᴜᴋsᴏɴᵘᶻᵘᵐᵃᵏⁱ₊ ͟͟͞͞➳"
+global.author = "✮✮✮ʟᴏᴜᴋsᴏɴᵘᶻᵘᵐᵃᵏⁱ₊ ͟͟͞͞➳"
+global.creator = "22502331988@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["94742274855"] // Premium User
+global.premium = ["22502331988"] // Premium User
 global.hituet = 0
 
 //bot sett
